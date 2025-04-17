@@ -1,0 +1,21 @@
+{
+  "name": "leetcode-light",
+  "displayName": "Leetcode Light",
+  "description": "Leetcode's light theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Leetcode Light",
+        "uiTheme": "vs",
+        "path": "./themes/Leetcode Light-color-theme.json"
+      }
+    ]
+  }
+}
