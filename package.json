@@ -3,6 +3,19 @@
   "displayName": "Leetcode Light",
   "description": "Leetcode's light theme",
   "version": "0.0.1",
+  "publisher": "GohYongJing",
+	"author": {
+		"name": "Goh Yong Jing"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gohyongjing/leetcode-light.git"
+  },
+  "keywords": [
+    "leetcode",
+    "light",
+    "theme"
+  ],
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -17,5 +30,8 @@
         "path": "./themes/Leetcode Light-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
   }
 }
