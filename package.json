@@ -2,11 +2,11 @@
   "name": "leetcode-light",
   "displayName": "Leetcode Light",
   "description": "Leetcode's light theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "GohYongJing",
-	"author": {
-		"name": "Goh Yong Jing"
-	},
+  "author": {
+    "name": "Goh Yong Jing"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/gohyongjing/leetcode-light.git"
